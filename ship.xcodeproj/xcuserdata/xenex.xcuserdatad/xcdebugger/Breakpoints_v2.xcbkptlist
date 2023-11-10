@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F53A9AE0-2492-438D-97D6-A0D951F9E507"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FA67799-3640-454F-A86E-1001EDD37A6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ship/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "Setting"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65FFCBC3-92F4-4675-B654-0A7D64953CAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ship/HeaderCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "HeaderTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "65FFCBC3-92F4-4675-B654-0A7D64953CAF - 9ed926e6c2e1d4bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ship.HeaderTableViewCell.colorLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ship"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xenex/Downloads/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/MyFirstProject/ship/ship/HeaderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "65FFCBC3-92F4-4675-B654-0A7D64953CAF - 4c1fe89bf076644f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ship.HeaderTableViewCell.colorLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ship"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xenex/Downloads/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/MyFirstProject/ship/ship/HeaderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "65FFCBC3-92F4-4675-B654-0A7D64953CAF - fed67ac8f89970be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ship.HeaderTableViewCell.colorLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ship"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xenex/Downloads/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/MyFirstProject/ship/ship/HeaderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "65FFCBC3-92F4-4675-B654-0A7D64953CAF - 4f98836afba92dd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ship.HeaderTableViewCell.colorLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ship"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xenex/Downloads/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/MyFirstProject/ship/ship/HeaderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "65FFCBC3-92F4-4675-B654-0A7D64953CAF - 226e38df506f1071"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ship.HeaderTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; ship.HeaderTableViewCell"
+                  moduleName = "ship"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xenex/Downloads/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/MyFirstProject/ship/ship/HeaderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "65FFCBC3-92F4-4675-B654-0A7D64953CAF - 6a1d497de740f373"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ship.HeaderTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ship.HeaderTableViewCell&gt;"
+                  moduleName = "ship"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xenex/Downloads/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/MyFirstProject/ship/ship/HeaderCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
